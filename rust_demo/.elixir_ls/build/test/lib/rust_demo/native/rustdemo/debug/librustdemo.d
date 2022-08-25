@@ -1,0 +1,1 @@
+/Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/librustdemo.dylib: /Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/native/rustdemo/src/lib.rs

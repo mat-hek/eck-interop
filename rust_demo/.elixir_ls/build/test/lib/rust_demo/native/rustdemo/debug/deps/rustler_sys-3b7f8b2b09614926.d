@@ -1,0 +1,12 @@
+/Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/deps/rustler_sys-3b7f8b2b09614926.rmeta: /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/lib.rs /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/initmacro.rs /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/rustler_sys_api.rs /Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/build/rustler_sys-b32097d1708f1ac7/out/nif_api.snippet
+
+/Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/deps/librustler_sys-3b7f8b2b09614926.rlib: /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/lib.rs /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/initmacro.rs /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/rustler_sys_api.rs /Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/build/rustler_sys-b32097d1708f1ac7/out/nif_api.snippet
+
+/Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/deps/rustler_sys-3b7f8b2b09614926.d: /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/lib.rs /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/initmacro.rs /Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/rustler_sys_api.rs /Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/build/rustler_sys-b32097d1708f1ac7/out/nif_api.snippet
+
+/Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/lib.rs:
+/Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/initmacro.rs:
+/Users/matheksm/.cargo/registry/src/github.com-1ecc6299db9ec823/rustler_sys-2.2.0/src/rustler_sys_api.rs:
+/Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/build/rustler_sys-b32097d1708f1ac7/out/nif_api.snippet:
+
+# env-dep:OUT_DIR=/Users/matheksm/Desktop/sm/membrane_test/interop/rust_demo/.elixir_ls/build/test/lib/rust_demo/native/rustdemo/debug/build/rustler_sys-b32097d1708f1ac7/out
